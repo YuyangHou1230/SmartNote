@@ -1,0 +1,19 @@
+
+.QWidget
+{
+    background: rgba(100,100,100,100);
+}
+
+QPushButton
+{
+    background : transparent;
+    color: white;
+    border: 1px solid rgb(200, 200,200);
+}
+
+QListWidget
+{
+    background : transparent;
+    color: white;
+    border: 1px solid rgb(200, 200,200);
+}
